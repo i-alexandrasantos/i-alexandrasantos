@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @i-alexandrasantos
-- 🌱 I’m currently learning JavaScript | Java | Python
+- 🌱 I’m currently learning JavaScript | Java | 
 - 📫 How to reach me aleseect@gmail.com
 - 😄 Pronouns: she/her
 
