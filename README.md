@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @i-alexandrasantos
-- 🌱 I’m currently learning JavaScript | C# | DotNet
 - 📫 How to reach me aleseect@gmail.com
 - 😄 Pronouns: she/her
 
